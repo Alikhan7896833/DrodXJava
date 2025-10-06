@@ -116,7 +116,7 @@ This project uses a free template for the **home**, **single product**, and **sh
 
 This project is part of my **professional portfolio**. You are welcome to reference it, but please credit the author if you reuse or adapt any part of it.
 
----s
+---
 
 ## 📜 License
 
