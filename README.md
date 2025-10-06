@@ -12,7 +12,7 @@
 * **Watchlist:** Save favorite items for later purchase.
 * **Checkout Process:** Fast, reliable, and simple checkout experience.
 * **Payment Gateway Integration:** Secure payments via the **PayHere** gateway.
-* **Account Management:** Edit profile, view purchase history, and manage products (for sellers).
+* **Account Management:** Edit profile, view purchase history, and manage products.
 
 ---
 
