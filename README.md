@@ -1,6 +1,6 @@
 # DrodXJava - E-Commerce Web Application
 
-**DrodXJava** is a modern Java EE e-commerce platform for selling music equipment, designed to offer a seamless and engaging online shopping experience. With a user-friendly interface and powerful backend architecture, DrodXJava simplifies online shopping for both customers and sellers.
+**DrodXJava** is a modern Java EE e-commerce platform for selling music equipments, designed to offer a seamless and engaging online shopping experience. With a user-friendly interface and powerful backend architecture.
 
 ---
 
